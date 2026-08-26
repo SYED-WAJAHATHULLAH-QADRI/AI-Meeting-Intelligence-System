@@ -1,0 +1,14 @@
+google-genai
+openai-whisper
+pydantic
+streamlit
+pandas==2.2.3
+numpy
+rapidfuzz
+jiwer
+psutil
+python-docx
+reportlab
+matplotlib
+seaborn
+torch
