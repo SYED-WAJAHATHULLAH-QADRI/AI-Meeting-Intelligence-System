@@ -12,3 +12,4 @@ reportlab
 matplotlib
 seaborn
 torch
+imageio-ffmpeg
